@@ -24,6 +24,10 @@
 - **概要**: ローンチ前のためリンクなし　
 - **使用技術**: premire pro
 
+## ビジョン
+- **概要**: Web3.0＊音楽を実現しなおかつ、将来的には世界中の方に使用していただきたいと考えています。
+- **リンク**: https://www.notion.so/WEB3-0-MUSIC-36bda6a328f14523a11ede88eb57be57
+
 ## 連絡先
 - **Email**: biaoliuy@gmail.com
 
